@@ -1,0 +1,31 @@
+{
+    "id": "70A1A874",
+    "path": "~/Desktop/sem6/data_wranggling/week1/week1.qmd",
+    "project_path": "week1.qmd",
+    "type": "quarto_markdown",
+    "hash": "638309245",
+    "contents": "",
+    "dirty": false,
+    "created": 1705106507449.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "201:0",
+        "cursorPosition": "27,11",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705109790,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705109790022,
+    "read_only": false,
+    "read_only_alternatives": []
+}

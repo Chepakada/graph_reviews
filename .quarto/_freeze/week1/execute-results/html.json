@@ -1,0 +1,16 @@
+{
+  "hash": "d945483352b351c074e17af5a413657e",
+  "result": {
+    "markdown": "---\ntitle: \"First_Quarto_File\"\n---\n\n\n## Websites Found\n\n### [The Pudding](https://pudding.cool/)\nIt explores the world of Spotify with easy access to the information while forming the connection with the social opinions. Whilst written in neutral aspect, it visualizes the data in such a manner that each piece of information creates a battle in your brain with completely opposite perspectives. Simply, it illustrates the data in such a manner that every piece of information is compelling and provocative.\n\nDespite being thought provoking, the actual visualization of data is minimal and often represented in words rather than graphs making it slightly boring after a while.\n\n\n\n### [The Fortune 500 CEO With The Best and Worst](https://priceonomics.com/the-fortune-500-ceos-with-the-best-and-worst/)\n\nIt is simple, to the point and funny. It doesn't have many comparison at the same time making it easy to understand. It also tries to establish relationship between two different aspects which seem totally unrelated. While using some scientific factors to draw the conclusion, it also doesn't let the viewer to get lost in completely irrelevant information. \n\nHowever, the prospect of the article is too short and the comparisons too less. Even when passing the most important information, it fails to convince the viewers on the data it is trying pass.\n\n\n\n### [FiveThirtyEight](https://fivethirtyeight.com/)\n\nIt has graphical illustrations of approval ratings and other political opinions for elections. Most of the data are represented in the form of scattered plot. A little bit harder to navigate, it still provides vital information on current political situation of the country. It however has much visualizations for one single political party and seems to provide information on highly biased manner.\n\nNavigation is worst and graphs are not interactive at all. It is hard to establish a little less obvious information as the labeling isn't done in clear manner.\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:20);\n```\n\n::: {.cell-output-display}\n![](week1_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "week1_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
